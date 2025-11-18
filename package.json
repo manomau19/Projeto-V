@@ -1,6 +1,6 @@
 {
   "name": "sistema-agendamento-victoria-freitas",
-  "version": "1.10.1",
+  "version": "1.0.1",
   "description": "Sistema de agendamento para Studio Victoria Freitas - Nails Designer",
   "type": "module",
   "scripts": {
